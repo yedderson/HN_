@@ -2,7 +2,7 @@
 // @name           HN_
 // @description    HN topics by points
 // @match          *://news.ycombinator.com/*
-// @version        1.0
+// @version        1.0.0
 // @downloadURL    https://hnbar.herokuapp.com/hn_.user.js
 // ==/UserScript==
 
