@@ -3,7 +3,7 @@
 // @description    HN topics by points
 // @match          *://news.ycombinator.com/*
 // @version        1.0.0
-// @downloadURL    https://hnbar.herokuapp.com/hn_.user.js
+// @downloadURL    https://hnbar.herokuapp.com/static/hn_.user.js
 // ==/UserScript==
 
 //Jquery 1.8
